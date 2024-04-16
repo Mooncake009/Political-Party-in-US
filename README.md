@@ -8,7 +8,7 @@
 ## Data Cleaning 
 ## Data Analysis 
    
-    ``` excel 
-    =IFERROR(H9/G9,"Null")
-    ``` 
+``` excel 
+  =IFERROR(H9/G9,"Null")
+``` 
     
