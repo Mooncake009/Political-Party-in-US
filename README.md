@@ -6,6 +6,6 @@
     ## Tools 
     ## Data Cleaning 
     ## Data Analysis 
-    ``` Excel 
+    ``` excel 
     =IFERROR(H9/G9,"Null")
     ```
